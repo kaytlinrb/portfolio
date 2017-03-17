@@ -1,18 +1,50 @@
 .prof-pic{
   width: 20%;
   border-radius: 50%;
-  display: inline;
   float: left;
   margin-left: 50px;
+  margin-top: 20px;
+  display: inline;
 }
-body{
-background-image: url("https://s-media-cache-ak0.pinimg.com/originals/be/2a/94/be2a940c4ac312bf5abc0aa9677749de.jpg");
-background-size: 100%;
-  font-family: "Work Sans", serif;
+.kaytlin {
+  font-family: "Alike Angular", serif;
+  display: inline-block;
+  text-align: center;
+  margin-left: 2%;
+  font-size: 55px
+}
+.subhead{
+  text-align: left;
+  color: gray;
+  margin-bottom: 100px;
+  margin-left:48%;
+  padding-left: 50px;
 }
 .projects{
   text-align: center;
 }
-.name{
-  font-family: "Alike Angular", serif;
+.aboutme{
+  text-align: justify;
+  line-height: 30px;
+  font-weight:bold;
+}
+
+dl a {
+  font-weight:bold;
+  color: darkgreen;
+  text-shadow: 5px;
+}
+
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/be/2a/94/be2a940c4ac312bf5abc0aa9677749de.jpg");
+  background-size: 100%;
+  font-family: "Work Sans", serif;
+  text-align: center;
+}
+.aboutstyle{
+  font-weight:bold;
+  font-style: oblique;
+}
+.no-align{
+  text-align: left;
 }
