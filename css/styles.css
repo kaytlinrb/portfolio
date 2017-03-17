@@ -8,18 +8,19 @@
 }
 .kaytlin {
   font-family: "Alike Angular", serif;
-  display: block;
+  display: inline-block;
   text-align: center;
   margin-right: 10%;
-  font-size: 55px;
+  font-size: 70px;
   float:right;
+  width: 50%
 }
 .subhead{
   text-align: right;
   color: gray;
-  margin-bottom: 100px;
   padding-left: 50px;
   display: inline-block;
+  width: 50%
 }
 .projects{
   text-align: center;
@@ -29,11 +30,16 @@
   line-height: 30px;
   font-weight:bold;
 }
+.intros{
+  text-transform: uppercase;
+  color: darkgreen;
+  text-shadow: 3px;
+}
 
 dl a {
   font-weight:bold;
   color: darkgreen;
-  text-shadow: 5px;
+  text-shadow: 3px;
 }
 
 body{
@@ -45,6 +51,9 @@ body{
 .aboutstyle{
   font-weight:bold;
   font-style: oblique;
+}
+.midlist{
+  margin-left: 30px;
 }
 .no-align{
   text-align: left;
