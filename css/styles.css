@@ -3,4 +3,8 @@
   border-radius: 50%;
   display: inline;
   float: left;
+  margin-left: 50px;
+}
+body{
+  background-image: url("images/bg-img.jpg");
 }
