@@ -8,17 +8,18 @@
 }
 .kaytlin {
   font-family: "Alike Angular", serif;
-  display: inline-block;
+  display: block;
   text-align: center;
-  margin-left: 2%;
-  font-size: 55px
+  margin-right: 10%;
+  font-size: 55px;
+  float:right;
 }
 .subhead{
-  text-align: left;
+  text-align: right;
   color: gray;
   margin-bottom: 100px;
-  margin-left:48%;
   padding-left: 50px;
+  display: inline-block;
 }
 .projects{
   text-align: center;
